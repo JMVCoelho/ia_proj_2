@@ -1,4 +1,4 @@
-# Artifitial Intelligence - P2
+# Artificial Intelligence - P2
 School Project for Artificial Intelligence
 This project was divided in 2 parts
 
@@ -13,7 +13,7 @@ toposort.py was given.
 
 ## Part 2
 
-Implemented Q-learning algorithm, that given a trajectory computes Q-values for each action.7
+Implemented Q-learning algorithm, that given a trajectory computes Q-values for each action.
 
 Implemented in python. (file RL.py)
 RL.py had some base code.
