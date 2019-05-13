@@ -1,6 +1,6 @@
 # Artificial Intelligence - P2
-School Project for Artificial Intelligence
-This project was divided in 2 parts
+School Project for Artificial Intelligence  
+This project was divided in 2 parts  
 
 
 ## Part 1
