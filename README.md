@@ -15,7 +15,7 @@ toposort.py was given.
 
 Implemented Q-learning algorithm, that given a trajectory computes Q-values for each action.
 
-Implemented in python. (file RL.py)
+Implemented in python. (file RL.py)  
 RL.py had some base code.
 
 
