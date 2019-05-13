@@ -38,14 +38,14 @@ IA_P2.pdf
 
 ## Tests
 
-mainRL.py tests RL.py. Q1.npz and traj.npz are trajectories used by this test.
-mainBN.py tests BL.py
+mainRL.py tests RL.py. Q1.npz and traj.npz are trajectories used by this test.  
+mainBN.py tests BL.py  
 
 
 ## Authors
 
-Joao Coelho
-Francisco Santos
+Joao Coelho  
+Francisco Santos  
 
 
 ## Grade
