@@ -20,7 +20,7 @@ RL.py had some base code.
 
 
 ## Report
-**The report is in portuguese**
+**The report is in portuguese**  
 The major part of the whole project was the report:
 
 Part 1:
